@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "banteve.ai.monika"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "banteve.ai.monika"
         minSdk = 29
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

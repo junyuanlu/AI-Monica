@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AIMonikaTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "AI Monica",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
